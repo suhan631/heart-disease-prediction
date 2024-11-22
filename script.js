@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const prediction = simulatePrediction(userInput);
 
         // Display result
-        resultDiv.textContent = `Predicted outcome: ${prediction}`;
+        resultDiv.textContent = `Predicted output: ${prediction}`;
     });
 });
 
